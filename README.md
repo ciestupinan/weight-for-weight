@@ -1,5 +1,6 @@
 # weight-for-weight
 Problem from Code Wars: https://www.codewars.com/kata/weight-for-weight/train/python
+Test cases given with problem on Code Wars
 
 
 Problem Description:
@@ -18,5 +19,5 @@ When two numbers have the same "weight", let us class them as if they were strin
 All numbers in the list are positive numbers and the list can be empty.
 
 Notes
-it may happen that the input string have leading, trailing whitespaces and more than a unique whitespace between two consecutive numbers
-Don't modify the input
+It may happen that the input string have leading, trailing whitespaces and more than a unique whitespace between two consecutive numbers.
+
